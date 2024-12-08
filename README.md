@@ -2,7 +2,7 @@
 
 This is a Java-based microservices project for an eCommerce platform
 
-![Ecommerce architecture](images/image.png)
+![Ecommerce](images/image.png)
 
 ## Tech Stack
 
