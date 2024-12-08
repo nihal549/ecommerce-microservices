@@ -1,6 +1,9 @@
 # Ecommerce Microservices
 
 This is a Java-based microservices project for an eCommerce platform
+
+![Ecommerce architecture](images/image.png)
+
 ## Tech Stack
 
 - **Java** - Core programming language for building microservices.
