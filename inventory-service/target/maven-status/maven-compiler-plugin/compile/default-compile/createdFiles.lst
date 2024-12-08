@@ -1,0 +1,7 @@
+com/poc/inventoryservice/controller/InventoryController.class
+com/poc/inventoryservice/InventoryServiceApplication.class
+com/poc/inventoryservice/service/InventoryService.class
+com/poc/inventoryservice/model/Inventory.class
+com/poc/inventoryservice/dto/InventoryResponse$InventoryResponseBuilder.class
+com/poc/inventoryservice/repository/InventoryRepository.class
+com/poc/inventoryservice/dto/InventoryResponse.class
